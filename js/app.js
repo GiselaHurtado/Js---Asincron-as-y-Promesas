@@ -1,16 +1,9 @@
 
-
 const uri = '../js/data.json'
 
 
 async function getData(){
-    try {
-
-    }catch (error){
-        
-    }
-
-
+    
     const response = await fetch(uri)
     const data = await response.json();
 
@@ -26,9 +19,6 @@ async function getData(){
     console.log(data.results);
     console.log(data.status);
 
-    for (const property in person) {
-        const sentence = `Sentence = ${property} = ${person[property]}`
-        console.log(sentence);
-    }
 }
 
+getData()
