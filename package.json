@@ -1,0 +1,19 @@
+{
+  "name": "js---asincron-as-y-promesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiselaHurtado/Js---Asincron-as-y-Promesas.git"
+  },
+  "author": "Gisela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GiselaHurtado/Js---Asincron-as-y-Promesas/issues"
+  },
+  "homepage": "https://github.com/GiselaHurtado/Js---Asincron-as-y-Promesas#readme"
+}
