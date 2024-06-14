@@ -4,9 +4,8 @@ table {
     background-color: pink;
     text-align: center;
     font-family: Major Mono Display;
-  
 }
-th, td {
+td {
     border: 1px solid #ddd;
     padding: 8px;
 }
@@ -15,4 +14,6 @@ th {
     text-align: left;
     background-color: violet;
     text-align: center;
+    border: 1px solid #ddd;
+    padding: 8px;
 }
