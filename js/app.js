@@ -1,5 +1,4 @@
-const uri = '../data.json';
-console.log(uri);
+const uri = 'https://giselahurtado.github.io/Js---Asincron-as-y-Promesas/data.json';
 
 async function getData() {
     const response = await fetch(uri);
